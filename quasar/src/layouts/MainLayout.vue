@@ -13,11 +13,12 @@
         <q-toolbar-title>
           Cardápio Digital
         </q-toolbar-title>
-        <!-- <q-item>
-            <img src="~assets/logo.png" alt="">
-          </q-item> -->
 
-        <div>Quasar v{{ $q.version }}</div>
+        <!-- <div>
+          <q-item>
+            <img src="~assets/logo.png" alt="">
+          </q-item>
+        </div> -->
       </q-toolbar>
     </q-header>
 
